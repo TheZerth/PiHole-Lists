@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts			# StevenBlack Unified Hosts - Ads + Fakenews
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt			# 1Hosts Pro - Ads
+https://phishing.army/download/phishing_army_blocklist_extended.txt			# Phishing Army - Phishing
+https://urlhaus.abuse.ch/downloads/hostfile/						# URLHaus - Phishing
+https://v.firebog.net/hosts/lists.php?type=tick						# Firebog Ticked - Ads
+https://dbl.oisd.nl/									# OISD Full - Ads
+https://mirror1.malwaredomains.com/files/justdomains					# Malware Domain List - Malware
+https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts		# Mitchell Krogza - Telemetry

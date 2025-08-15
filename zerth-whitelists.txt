@@ -1,0 +1,11 @@
+github.com
+api.github.com
+cdn.jsdelivr.net
+fonts.gstatic.com
+fonts.googleapis.com
+ajax.googleapis.com
+gravatar.com
+*.netflix.com
+*.nflxvideo.net
+*.amazonvideo.com
+*.hulu.com
