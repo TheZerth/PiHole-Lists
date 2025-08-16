@@ -2,7 +2,45 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts			# StevenBlack
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt			# 1Hosts Pro - Ads
 https://phishing.army/download/phishing_army_blocklist_extended.txt			# Phishing Army - Phishing
 https://urlhaus.abuse.ch/downloads/hostfile/						# URLHaus - Phishing
-https://v.firebog.net/hosts/lists.php?type=tick						# Firebog Ticked - Ads
 https://dbl.oisd.nl/									# OISD Full - Ads
 https://mirror1.malwaredomains.com/files/justdomains					# Malware Domain List - Malware
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts		# Mitchell Krogza - Telemetry
+# FireBog - Ticked
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt		
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://adaway.org/hosts.txt
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://v.firebog.net/hosts/Admiral.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+https://v.firebog.net/hosts/Prigent-Crypto.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://v.firebog.net/hosts/RPiList-Malware.txt
+https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://lists.cyberhost.uk/malware.txt
+# OISD Lists
+https://big.oisd.nl
+https://small.oisd.nl
+# BlockLists Project
+https://blocklistproject.github.io/Lists/abuse.txt   		# Sites created to deceive
+https://blocklistproject.github.io/Lists/ads.txt		# Advertisements
+https://blocklistproject.github.io/Lists/fraud.txt		# Fraud websites
+https://blocklistproject.github.io/Lists/malware.txt		# Malware Hosts
+https://blocklistproject.github.io/Lists/ransomware.txt		# Ransomware Hosts
+https://blocklistproject.github.io/Lists/scam.txt		# Scam Sites
+https://blocklistproject.github.io/Lists/tracking.txt		# Tracking/Telemetry

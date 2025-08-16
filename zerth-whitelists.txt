@@ -1,11 +1,240 @@
+# AnuDeepDN WhiteList Collection
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
+
+# GitHub
 github.com
 api.github.com
-cdn.jsdelivr.net
-fonts.gstatic.com
-fonts.googleapis.com
-ajax.googleapis.com
-gravatar.com
-*.netflix.com
-*.nflxvideo.net
-*.amazonvideo.com
-*.hulu.com
+
+# Google Services
+clients4.google.com 			# Maps
+clients2.google.com			# Maps
+s.youtube.com				# YouTube History
+video-stats.l.google.com		# YouTube History
+www.googleapis.com 			# YouTube iOS
+youtubei.googleapis.com			# YouTube iOS
+oauthaccountmanager.googleapis.com	# YouTube iOS
+android.clients.google.com		# Google Play
+gstaticadssl.l.google.com		# Google Fonts
+googleapis.l.google.com			# GMail
+dl.google.com				# Chrome Updates
+redirector.gvt1.com			# Android TV
+mtalk.googel.com			# Push Notifications
+
+# Microsoft Services
+www.msftncsi.com www.msftconnecttest.com	# Windows Connection Verify (will spam if not allowed)
+outlook.office365.com				# Office 
+products.office.com     			# Office
+c.s-microsoft.com 				# Office
+i.s-microsoft.com 				# Office
+login.live.com 					# Office
+login.microsoftonline.com 			# Office
+officeclient.microsoft.com			# Office
+g.live.com					# BitLocker Backup
+dl.delivery.mp.microsoft.com 			# Microsoft Store
+geo-prod.do.dsp.mp.microsoft.com 		# Microsoft Store
+displaycatalog.mp.microsoft.com			# Microsoft Store
+sls.update.microsoft.com.akadns.net 		# Win10 Updates
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net 	# Win10 Updates
+tlu.dl.delivery.mp.microsoft.c			# Win10 Updates
+msedge.api.cdp.microsoft.com			# Edge Updates
+clientconfig.passport.net			# XBox Live
+xbox.ipv6.microsoft.com 			# XBox Live
+device.auth.xboxlive.com 			# XBox Live
+www.msftncsi.com 				# XBox Live
+title.mgt.xboxlive.com 				# XBox Live
+xsts.auth.xboxlive.com 				# XBox Live
+title.auth.xboxlive.com 			# XBox Live
+ctldl.windowsupdate.com 			# XBox Live
+attestation.xboxlive.com 			# XBox Live
+xboxexperiencesprod.experimentation.xboxlive.com# XBox Live
+xflight.xboxlive.com 				# XBox Live
+cert.mgt.xboxlive.com 				# XBox Live
+xkms.xboxlive.com 				# XBox Live
+def-vef.xboxlive.com 				# XBox Live
+notify.xboxlive.com 				# XBox Live
+help.ui.xboxlive.com 				# XBox Live
+licensing.xboxlive.com 				# XBox Live
+eds.xboxlive.com 				# XBox Live
+www.xboxlive.com 				# XBox Live
+v10.vortex-win.data.microsoft.com 		# XBox Live
+settings-win.data.microsoft.com			# XBox Live
+v10.events.data.microsoft.com                   # XBox Live Achievements
+v20.events.data.microsoft.com                   # XBox Live Achievements
+client-s.gateway.messenger.live.com             # XBox Live Messaging
+rc.msn.com                                      # XBox Store App
+activity.windows.com                            # XBox EA Play
+s.gateway.messenger.live.com 			# Skype
+client-s.gateway.messenger.live.com 		# Skype
+ui.skype.com 					# Skype
+pricelist.skype.com 				# Skype
+apps.skype.com 					# Skype
+m.hotmail.com 					# Skype
+sa.symcb.com 					# Skype
+s{1..5}.symcb.com				# Skype
+dev.virtualearth.net 				# Bing Maps
+ecn.dev.virtualearth.net			# Bing Maps 
+t0.ssl.ak.dynamic.tiles.virtualearth.net 	# Bing Maps
+t0.ssl.ak.tiles.virtualearth.net		# Bing Maps
+
+# Apple Services
+itunes.apple.com		# Apple Music
+s.mzstatic.com			# Apple Music
+ppleid.apple.com		# Apple ID
+gsp-ssl.ls.apple.com		# iOS Weather
+gsp-ssl.ls-apple.com.akadns.net	# iOS Weather
+
+# Captive Portals (Connection Tests)
+connectivitycheck.android.com 	# Android/Chrome
+android.clients.google.com 	# Android/Chrome
+clients3.google.com 		# Android/Chrome
+connectivitycheck.gstatic.com	# Android/Chrome
+msftncsi.com 			# Microsoft/Windows
+www.msftncsi.com 		# Microsoft/Windows
+ipv6.msftncsi.com		# Microsoft/Windows
+captive.apple.com 		# Apple/iOS/MacOS
+gsp1.apple.com 			# Apple/iOS/MacOS
+www.apple.com 			# Apple/iOS/MacOS
+www.appleiphonecell.com		# Apple/iOS/MacOS
+
+# Spotify
+spclient.wg.spotify.com		# Spotify 
+apresolve.spotify.com		# Spotify
+api-tv.spotify.com		# Spotify
+
+# Facebook Messenger
+upload.facebook.com 		# Facebook Messenger
+creative.ak.fbcdn.ne		# Facebook Messengert 
+external-lhr0-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr1-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr10-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr2-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr3-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr4-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr5-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr6-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr7-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr8-1.xx.fbcdn.net 	# Facebook Messenger
+external-lhr9-1.xx.fbcdn.net 	# Facebook Messenger
+fbcdn-creative-a.akamaihd.net 	# Facebook Messenger
+scontent-lhr3-1.xx.fbcdn.net 	# Facebook Messenger
+scontent.xx.fbcdn.net 		# Facebook Messenger
+scontent.fgdl5-1.fna.fbcdn.net 	# Facebook Messenger
+graph.facebook.com 		# Facebook Messenger
+b-graph.facebook.com 		# Facebook Messenger
+connect.facebook.com 		# Facebook Messenger
+cdn.fbsbx.com 			# Facebook Messenger
+api.facebook.com 		# Facebook Messenger
+edge-mqtt.facebook.com 		# Facebook Messenger
+mqtt.c10r.facebook.com 		# Facebook Messenger
+portal.fb.com 			# Facebook Messenger
+star.c10r.facebook.com 		# Facebook Messenger
+star-mini.c10r.facebook.com 	# Facebook Messenger
+b-api.facebook.com 		# Facebook Messenger
+fb.me 				# Facebook Messenger
+bigzipfiles.facebook.com 	# Facebook Messenger
+l.facebook.com 			# Facebook Messenger
+www.facebook.com 		# Facebook Messenger
+scontent-atl3-1.xx.fbcdn.net 	# Facebook Messenger
+static.xx.fbcdn.net 		# Facebook Messenger
+edge-chat.messenger.com 	# Facebook Messenger
+video.xx.fbcdn.net		# Facebook Messenger 
+external-ort2-1.xx.fbcdn.net 	# Facebook Messenger
+scontent-ort2-1.xx.fbcdn.net 	# Facebook Messenger
+edge-chat.facebook.com 		# Facebook Messenger
+scontent-mia3-1.xx.fbcdn.net 	# Facebook Messenger
+web.facebook.com 		# Facebook Messenger
+rupload.facebook.com 		# Facebook Messenger
+l.messenger.com			# Facebook Messenger
+
+# Common WebDesign placeholder images
+placehold.it 			# Placeholder images for WebDesign
+placeholdit.imgix.net		# Placeholder images for WebDesign
+
+# DropBox
+dl.dropboxusercontent.com 	# DropBox
+ns1.dropbox.com 		# DropBox
+ns2.dropbox.com			# DropBox
+
+# FireFox
+tracking-protection.cdn.mozilla.net	# FireFox Tracking Protection
+
+# Canon
+dlp01.c-wss.com			# Canon Printer Firmware Updates
+
+# Gaming Services
+gfwsl.geforce.com		# NVidia Drivers
+rod.telemetry.ros.rockstargames.com # GTA5
+tracking.epicgames.com		# Epic Games Store
+cloudsync-prod.s3.amazonaws.com	# Origin Cloud Saves
+telemetry-console.api.playstation.com	# PS5 Achievements and Play History
+
+# Plex Services
+plex.tv 
+tvdb2.plex.tv 
+pubsub.plex.bz 
+proxy.plex.bz 
+proxy02.pop.ord.plex.bz 
+cpms.spop10.ams.plex.bz 
+meta-db-worker02.pop.ric.plex.bz 
+meta.plex.bz 
+tvthemes.plexapp.com.cdn.cloudflare.net 
+tvthemes.plexapp.com 
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services 
+meta.plex.tv 
+cpms35.spop10.ams.plex.bz 
+proxy.plex.tv 
+metrics.plex.tv 
+pubsub.plex.tv 
+status.plex.tv 
+www.plex.tv 
+node.plexapp.com 
+nine.plugins.plexapp.com 
+staging.plex.tv 
+app.plex.tv 
+o1.email.plex.tv  
+o2.sg0.plex.tv 
+dashboard.plex.tv
+gravatar.com 			# custom login pictures
+thetvdb.com 			# metadata for tv series
+hemoviedb.com 			# metadata for movies
+htbl.com 			# iHeart radio/Plex Podcast
+services.sonarr.tv 		# Sonarr	
+skyhook.sonarr.tv 		# Sonarr
+download.sonarr.tv 		# Sonarr
+apt.sonarr.tv 			# Sonarr
+forums.sonarr.tv		# Sonarr
+
+# Reddit
+styles.redditmedia.com
+www.redditstatic.com
+dit.map.fastly.net
+www.redditmedia.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+
+# WhatsApp
+wa.me
+www.wa.me
+
+# Signal
+ud-chat.signal.org
+chat.signal.org
+storage.signal.org
+signal.org
+www.signal.org
+updates2.signal.org
+textsecure-service-whispersystems.org
+giphy-proxy-production.whispersystems.org
+cdn.signal.org
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+d83eunklitikj.cloudfront.net
+souqcdn.com
+cms.souqcdn.com
+api.directory.signal.org
+contentproxy.signal.org
+turn1.whispersystems.org
+
+# Twitter
+twitter.com
+upload.twitter.com
+api.twitter.com
+mobile.twitter.com
